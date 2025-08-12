@@ -1,2 +1,2 @@
 # SQL-Project-Farmers-Market-Data-Analysis
-Vendor and Customer Insights from Farmers’ Market Data Using SQL
+This repository contains my portfolio of SQL projects, highlighting my ability to write efficient queries, join and aggregate data, and solve analytical problems using relational databases. Each project includes well-documented queries, business insights, and visuals to support findings.
