@@ -3,6 +3,7 @@
 ## Overview
 This project demonstrates how SQL can be used to explore and analyze data from a simulated farmers’ market database.  
 The database contains information about vendors, customers, products, booth assignments, and purchases.
+I wrote SQL queries to extract, join, aggregate, and transform data to answer business-relevant questions — such as identifying high-spending customers, analyzing booth rental patterns, and categorizing products.
 
 The goal of the project was to answer real business questions, such as:
 - Which vendors rent booths most frequently?
@@ -74,7 +75,7 @@ ORDER BY customer_last_name ASC, customer_first_name ASC;
 Insight: 8 customers spent over $2,000 at the market — strong candidates for a loyalty rewards program.
 
 
-
+---
 ###Tools Used
 SQLite
 DB Browser for SQLite
