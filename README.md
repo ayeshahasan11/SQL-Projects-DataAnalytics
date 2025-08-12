@@ -80,3 +80,13 @@ Insight: 8 customers spent over $2,000 at the market — strong candidates for a
 SQLite
 DB Browser for SQLite
 GitHub for version control
+
+
+---
+###How to Run This Project
+
+Download farmersmarket.db
+Open it in DB Browser for SQLite
+Load assignment1.sql and run the queries
+
+Review the results!
